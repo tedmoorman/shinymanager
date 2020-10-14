@@ -1,0 +1,2 @@
+# shinymanager
+shinymanager for PostgreSQL
